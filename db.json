@@ -1,0 +1,256 @@
+
+{
+    "pets": [
+      {
+        "id": 1,
+        "category": "Dogs",
+        "name": "Buddy",
+        "breed": "Golden Retriever",
+        "shelter": "Paws of Love Rescue",
+        "image": "https://www.pexels.com/photo/adult-golden-retriever-sitting-on-grass-field-1001976/",
+        "price": 300,
+        "contact": "pawsoflove@example.com"
+      },
+      {
+        "id": 2,
+        "category": "Cats",
+        "name": "Whiskers",
+        "breed": "Persian",
+        "shelter": "Feline Friends Shelter",
+        "image": "https://www.pexels.com/photo/grey-persian-cat-3423805/",
+        "price": 150,
+        "contact": "felinefriends@example.com"
+      },
+      {
+        "id": 3,
+        "category": "Pythons",
+        "name": "Slytherin",
+        "breed": "Ball Python",
+        "shelter": "Reptile Retreat",
+        "image": "https://www.pexels.com/photo/close-up-of-ball-python-18012500/",
+        "price": 100,
+        "contact": "reptileretreat@example.com"
+      },
+      {
+        "id": 4,
+        "category": "Birds",
+        "name": "Tweety",
+        "breed": "Canary",
+        "shelter": "Feathered Friends Sanctuary",
+        "image": "https://www.pexels.com/photo/close-up-shot-of-a-yellow-canary-6398822/",
+        "price": 50,
+        "contact": "featheredfriends@example.com"
+      },
+      {
+        "id": 5,
+        "category": "Dogs",
+        "name": "Rocky",
+        "breed": "German Shepherd",
+        "shelter": "Rescue Me Center",
+        "image": "https://www.pexels.com/photo/adult-german-shepherd-lying-on-ground-333083/",
+        "price": 250,
+        "contact": "rescueme@example.com"
+      },
+      {
+        "id": 6,
+        "category": "Cats",
+        "name": "Mittens",
+        "breed": "Maine Coon",
+        "shelter": "Furry Friends Haven",
+        "image": "https://www.pexels.com/photo/close-up-shot-of-a-maine-8942602/",       
+        "price": 120,
+        "contact": "furryfriends@example.com"
+      },
+      {
+        "id": 7,
+        "category": "Pythons",
+        "name": "Hiss",
+        "breed": "Burmese Python",
+        "shelter": "Slithering Serenity",
+        "image": "https://www.pexels.com/photo/beige-python-on-brown-branch-of-tree-1108192/",
+        "price": 80,
+        "contact": "slitheringserenity@example.com"
+      },
+      {
+        "id": 8,
+        "category": "Birds",
+        "name": "Chirpy",
+        "breed": "Parakeet",
+        "shelter": "Avian Acres",
+        "image": "https://www.pexels.com/photo/photo-of-perched-parakeet-1661179/", 
+        "price": 40,
+        "contact": "avianacres@example.com"
+      },
+      {
+        "id": 9,
+        "category": "Dogs",
+        "name": "Luna",
+        "breed": "Siberian Husky",
+        "shelter": "Northern Paws Rescue",
+        "image": "https://www.pexels.com/photo/black-and-white-siberian-husky-3715587/",
+        "price": 350,
+        "contact": "northernpaws@example.com"
+      },
+      {
+        "id": 10,
+        "category": "Cats",
+        "name": "Shadow",
+        "breed": "Russian Blue",
+        "shelter": "Silent Meows Shelter",
+        "image": "https://www.pexels.com/photo/a-blue-cat-on-a-table-with-houseplants-16845242/",
+        "price": 180,
+        "contact": "silentmeows@example.com"
+      },
+      {
+        "id": 11,
+        "category": "Pythons",
+        "name": "Fang",
+        "breed": "Reticulated Python",
+        "shelter": "Ssssnake Haven",
+        "image": "https://www.pexels.com/photo/photo-of-snake-3281127/",
+        "price": 120,
+        "contact": "ssssnakehaven@example.com"
+      },
+      {
+        "id": 12,
+        "category": "Birds",
+        "name": "Pippin",
+        "breed": "Cockatiel",
+        "shelter": "Cheerful Chirps Sanctuary",
+        "image": "https://www.pexels.com/photo/close-up-shot-of-a-cockatiel-perched-on-a-twig-8736807/",
+        "price": 60,
+        "contact": "cheerfulchirps@example.com"
+      },
+      {
+        "id": 13,
+        "category": "Dogs",
+        "name": "Charlie",
+        "breed": "Poodle",
+        "shelter": "Fluffy Tails Rescue",
+        "image": "https://www.pexels.com/photo/black-and-brown-dogs-on-grass-8106472/",
+        "price": 280,
+        "contact": "fluffytails@example.com"
+      },
+      {
+        "id": 14,
+        "category": "Cats",
+        "name": "Oreo",
+        "breed": "Domestic Shorthair",
+        "shelter": "Purrfect Paws Shelter",
+        "image": "https://www.pexels.com/photo/brown-tabby-cat-lying-on-white-floor-5427090/",
+        "price": 130,
+        "contact": "purrfectpaws@example.com"
+      },
+      {
+        "id": 15,
+        "category": "Pythons",
+        "name": "Slither",
+        "breed": "Carpet Python",
+        "shelter": "Serpentine Sanctuary",
+        "image": "https://www.pexels.com/photo/close-up-of-a-jungle-carpet-python-16357391/",
+        "price": 90,
+        "contact": "serpentinesanctuary@example.com"
+      },
+      {
+        "id": 16,
+        "category": "Birds",
+        "name": "Sunny",
+        "breed": "Sun Conure",
+        "shelter": "Bright Feathers Haven",
+        "image": "https://www.pexels.com/photo/parrot-holding-on-to-the-open-door-of-a-birdcage-17354843/",
+        "price": 70,
+        "contact": "brightfeathers@example.com"
+      },
+      {
+        "id": 17,
+        "category": "Dogs",
+        "name": "Rusty",
+        "breed": "Boxer",
+        "shelter": "Boxer Rescue Center",
+        "image": "https://www.pexels.com/photo/closeup-photography-of-tan-and-white-boxer-1294062/",
+        "price": 320,
+        "contact": "boxerrescue@example.com"
+      },
+      {
+        "id": 18,
+        "category": "Cats",
+        "name": "Simba",
+        "breed": "Bengal",
+        "shelter": "Royal Felines Sanctuary",
+        "image": "https://www.pexels.com/photo/bengal-cat-holding-a-paw-on-a-mans-head-16395148/",
+        "price": 200,
+        "contact": "royalfelines@example.com"
+      },
+      {    "id": 19,
+        "category": "Pythons",
+        "name": "Noodle",
+        "breed": "Burmese Python",
+        "shelter": "Python Paradise",
+        "image": "https://www.pexels.com/photo/python-in-glass-box-17342413/",
+        "price": 110,
+        "contact": "pythonparadise@example.com"
+      },
+      {
+        "id": 20,
+        "category": "Birds",
+        "name": "Feathers",
+        "breed": "Budgerigar",
+        "shelter": "Feathered Friends Sanctuary",
+        "image": "https://www.pexels.com/photo/birds-perched-on-the-brown-wooden-stick-7862080/",
+        "price": 45,
+        "contact": "featheredfriends@example.com"
+      },
+      {
+        "id": 21,
+        "category": "Dogs",
+        "name": "Lucky",
+        "breed": "Shih Tzu",
+        "shelter": "Tails of Happiness Rescue",
+        "image": "https://www.pexels.com/photo/a-cute-dog-on-green-grass-3866502/", 
+        "price": 270,
+        "contact": "tailsofhappiness@example.com"
+      },
+      {
+        "id": 22,
+        "category": "Cats",
+        "name": "Milo",
+        "breed": "Ragdoll",
+        "shelter": "Whiskers and Purrs Shelter",
+        "image": "https://www.pexels.com/photo/curious-hairy-purebred-cat-resting-on-porch-on-winter-day-4558364/",
+        "price": 140,
+        "contact": "whiskersandpurrs@example.com"
+      },
+      {
+        "id": 23,
+        "category": "Pythons",
+        "name": "Scales",
+        "breed": "King Python",
+        "shelter": "Regal Reptiles Sanctuary",
+        "image": "https://www.pexels.com/photo/person-with-tattoo-holds-python-2005922/",
+        "price": 95,
+        "contact": "regalreptiles@example.com"
+      },
+      {
+        "id": 24,
+        "category": "Birds",
+        "name": "Percy",
+        "breed": "African Grey Parrot",
+        "shelter": "Avian Acres",
+        "image": "https://www.pexels.com/photo/photo-of-grey-parrot-perched-on-branch-1599533/",
+        "price": 65,
+        "contact": "avianacres@example.com"
+      },
+      {
+        "id": 25,
+        "category": "Dogs",
+        "name": "Bailey",
+        "breed": "Beagle",
+        "shelter": "Bark Avenue Rescue",
+        "image": "https://www.pexels.com/photo/a-beagle-on-green-grass-field-8306128/",
+        "price": 290,
+        "contact": "barkavenue@example.com"
+      }
+    ]
+  }
+  
+  
